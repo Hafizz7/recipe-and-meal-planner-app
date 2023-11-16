@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977726513894",
+    "project_id": "flutter-recipe-meal-planner",
+    "storage_bucket": "flutter-recipe-meal-planner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977726513894:android:a0efc9ea8a47fc40ae9127",
+        "android_client_info": {
+          "package_name": "com.example.recipe_and_meal_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAZEQhnSMNwXEFVMdNeRQbZsTPB2pcl6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
